@@ -1,0 +1,5 @@
+{
+  "name": "christmas-cap",
+  "owner": { "name": "UcenecM" },
+  "plugins": [{ "name": "christmas-cap", "source": "./" }]
+}
