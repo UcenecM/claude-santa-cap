@@ -12,7 +12,7 @@ export const register: Register = on => {
           <Text color="white">{'   ██'}</Text>
           <Text color="red">{'  ▄██▄'}</Text>
           <Text color="red">{' ▄████▄'}</Text>
-          <Text color="white">{'▐██████▌'}</Text>
+          <Text color="white">{'████████'}</Text>
         </Box>
         {logo}
       </Box>

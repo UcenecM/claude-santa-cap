@@ -1,4 +1,4 @@
-# christmas-cap
+# Claude Santa Cap
 
 A Claude Code mod that puts a Santa hat above the Claude mascot in the welcome logo.
 
@@ -9,13 +9,13 @@ A Claude Code mod that puts a Santa hat above the Claude mascot in the welcome l
 At the prompt of a terminal session:
 
 ```
-/plugin install christmas-cap --marketplace UcenecM/christmas-cap
+/plugin install santa-cap --marketplace UcenecM/claude-santa-cap
 ```
 
 From a shell:
 
 ```
-claude plugin install christmas-cap --marketplace UcenecM/christmas-cap
+claude plugin install santa-cap --marketplace UcenecM/claude-santa-cap
 ```
 
 Answer `y` to add the marketplace, then pick a scope.
