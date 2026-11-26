@@ -19,3 +19,19 @@ claude plugin install santa-cap --marketplace UcenecM/claude-santa-cap
 ```
 
 Answer `y` to add the marketplace, then pick a scope.
+
+## Uninstall
+
+At the prompt of a terminal session:
+
+```
+/plugin uninstall santa-cap
+```
+
+From a shell:
+
+```
+claude plugin uninstall santa-cap
+```
+
+If you installed it in a project or local scope, add `--scope project` or `--scope local`. Restart Claude Code afterwards and the hat is gone.
