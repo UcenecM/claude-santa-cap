@@ -1,1 +1,9 @@
-{ "name": "santa-cap", "version": "0.1.0", "description": "Puts a Santa hat above the Claude mascot in the welcome logo." }
+{
+  "name": "santa-cap",
+  "version": "0.1.1",
+  "description": "Puts a Santa hat above the Claude mascot in the welcome logo.",
+  "author": { "name": "UcenecM" },
+  "repository": "https://github.com/UcenecM/claude-santa-cap",
+  "license": "MIT",
+  "keywords": ["claude-code", "mod", "christmas", "santa", "theme"]
+}

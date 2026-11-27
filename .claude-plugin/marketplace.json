@@ -1,5 +1,6 @@
 {
   "name": "santa-cap",
+  "description": "A Santa hat for the Claude Code mascot.",
   "owner": { "name": "UcenecM" },
   "plugins": [{ "name": "santa-cap", "source": "./" }]
 }
